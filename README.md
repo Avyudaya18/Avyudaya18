@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Avyudaya Lenka</h1>
+<h3 align="center">A Passionate Python Developer | Data Analyst Aspirant | Full Stack Trainee</h3>
 
-<!--
-**Avyudaya18/Avyudaya18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
+- 🎓 B.Tech in Computer Science (2025 Graduate)
+- 💻 Currently learning **Python Full Stack Development & Data Analytics**
+- 📚 Exploring **DSA, Django, SQL, Power BI, and Excel**
+- 🎯 Goal: **Get a developer or data analyst role by early 2026**
+- 🔥 Consistently improving coding & problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills & Technologies
+- **Languages:** Python, Java (Basics), SQL
+- **Frameworks:** Django
+- **Tools:** VS Code, Git & GitHub, Power BI, Excel
+- **Databases:** Oracle SQL
+- **Core Areas:** DSA, OOP, REST API, Web Dev, Problem Solving
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Avyudaya18&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avyudaya18&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Avyudaya18&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- ✉ Email: **avyudayalenka@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/avyudaya-lenka-80115b271/**
+
+---
+
+### 🌟 Support Me
+If you like my work, consider giving a ⭐ on repositories — it motivates me 🙂
