@@ -21,18 +21,14 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avyudaya18&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avyudaya18&show_icons=true&theme=tokyonight)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Avyudaya18&theme=tokyonight)
 
----
-
-### 🏆 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Avyudaya18&theme=tokyonight" />
-</p>
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avyudaya18&layout=compact&theme=tokyonight)
 
 ---
 
