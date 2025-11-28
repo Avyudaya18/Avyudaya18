@@ -23,15 +23,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Avyudaya18&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avyudaya18&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avyudaya18&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
 ### 🏆 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Avyudaya18&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Avyudaya18&theme=tokyonight" />
 </p>
 
 ---
