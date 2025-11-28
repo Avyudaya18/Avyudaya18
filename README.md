@@ -16,8 +16,8 @@
 - **Languages:** Python, Java (Basics), SQL
 - **Frameworks:** Django
 - **Tools:** VS Code, Git & GitHub, Power BI, Excel
-- **Databases:** Oracle SQL
-- **Core Areas:** DSA, OOP, REST API, Web Dev, Problem Solving
+- **Databases:** Oracle SQL,My SQL
+- **Core Areas:** OOP,DSA, REST API, Web Dev, Problem Solving
 
 ---
 
